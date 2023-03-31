@@ -13,7 +13,12 @@ The result is an image that looks like the original content image but has been s
 
 Neural style transfer has been used in various applications, such as art generation, image editing, and even in creating visual effects in movies. It allows for creative expression and can help artists and designers explo
 
-## 1. Pretrained Vgg19 Model
+## 1. Loading Pretrained Vgg19 Model
+## 2. Preprocess the image
+## 3. Deprocess the image
+## 4. Get content,style features and create gram matrix 
+## 5.  Creating Style and Content loss function
+## 6. Training loop
 
 
 
