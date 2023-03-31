@@ -1,4 +1,4 @@
-# NeuralStyleTransfer
+# Neural Style Transfer
   Neural style transfer is a technique used to apply the style of one image to the content of another image. It involves the use of deep neural networks to analyze the style and content of two images and then create a new image that combines them. The model is typically based on the VGG19 or other convolutional neural network architectures.
 
 The process of neural style transfer involves three main steps:
